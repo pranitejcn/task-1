@@ -128,5 +128,4 @@ public class BankingApp {
             while (ch != 5);  
         }  
     }  
-Output 1:
 
